@@ -1,7 +1,4 @@
-/**
- * Note: this is a sample code and is provided as part of training without any warranty.
- * You can use this code in any way at your own risk. 
- */
+
 package app;
 
 import java.util.logging.Logger;
@@ -13,10 +10,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
-/**
- * @author Nirmallya Mukherjee
- * 
- */
+
 
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
